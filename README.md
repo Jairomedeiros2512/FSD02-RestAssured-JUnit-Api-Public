@@ -6,9 +6,12 @@
 ###### Ano: 2021
 # FACULDADE IMPACTA DE TECNOLOGIA
 
-## MBA FULL STACK DEVELOPER - Automated Software Testing
+## MBA FULL STACK DEVELOPER
 
 
+#### Aula:
+    Automated Software Testing
+     
 #### Professor:
     Joao Henrique Victorino
 
